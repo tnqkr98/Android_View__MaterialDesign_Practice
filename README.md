@@ -1,5 +1,5 @@
 # Android View & MaterialDesign Practice
-## 0. Needs
+## 0. Before using
 
 You need to add "implementation 'com.google.android.material:material:1.0.0'" in Gradle(app)
 
